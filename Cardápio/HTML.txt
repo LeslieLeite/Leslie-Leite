@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>ELASNATECH</title>
+        <link rel="stylesheet" href="estilo.css">
+    </head>
+    <body>
+        <h1 id="t1" >LEITE'S<S></S></h1>
+        <h2>Cardápio</h2>
+        <h3>Macarrão Delícia - R$ 18,00</h3>
+
+        <img src="./img/Macarrão Delícia"><img>
+        <p>Um delicioso macarrão parafuso</p>
+
+        <p>Com bacon, calabresa e creme de leite</p>
+
+
+        <h3>Batata da Casa - R$ 15,00</h3>
+        <img src="Batata da Casa.jpg">
+
+        <p>Batata frita com bacon ralado e cheddar</p>
+
+        <h3>Waffle Crocante - R$ 10,00</h3>
+        <img src="Waffle Crocante.jpg">
+
+        <p>Com cobertura de:</p>
+
+        <p>Chocolate</p>
+
+        <p>Doce de Leite</p>
+
+        <p>Mel</p>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+body{
+    background-color: aquamarine;
+}
+#t1{ color: blue;}
+
+
+}
