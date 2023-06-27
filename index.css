@@ -30,6 +30,7 @@ img {
 
 }
 p {
-    width: 50%;
+    font-size: 15px;
+    text-align: left;
 }
 
